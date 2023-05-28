@@ -38,9 +38,8 @@ body {
 }
 
 #todo-list{
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    display: grid;
+    place-items: center;
     color: antiquewhite;
 }
 
@@ -54,5 +53,5 @@ body {
 #to-do{
     display: flex;
     color: aqua;
-    
+
 }
