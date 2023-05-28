@@ -1,0 +1,52 @@
+.hidden{
+    display: none;
+}
+
+body {
+    background-image: url('img/'); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#weather{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    color: antiquewhite;
+}
+
+#clock{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    color: antiquewhite;
+}
+
+#greeting{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:chartreuse;
+}
+
+#todo-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#todo-list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: antiquewhite;
+}
+
+#quote{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: antiquewhite;
+}
